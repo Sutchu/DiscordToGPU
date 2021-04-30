@@ -17,3 +17,126 @@ IPDL protocol error: Handler returned error code!
 ###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
 
 1619725793104	Marionette	INFO	Stopped listening on port 45411
+1619726995305	geckodriver	INFO	Listening on 127.0.0.1:42697
+1619726995310	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileqBw0pJ"
+1619726995704	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619726996731	Marionette	INFO	Listening on port 37677
+1619726996829	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://discord.com/assets/d0ccd2ec4ae7fd5186b0.js, line 2: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/d0ccd2ec4ae7fd5186b0.js, line 2: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/d0ccd2ec4ae7fd5186b0.js, line 2: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/d0ccd2ec4ae7fd5186b0.js, line 2: unreachable code after return statement
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1619727018380	Marionette	INFO	Stopped listening on port 37677
+1619732395984	geckodriver	INFO	Listening on 127.0.0.1:51529
+1619732395987	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileF277vZ"
+1619732396371	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619732397369	Marionette	INFO	Listening on port 45151
+1619732397400	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://discord.com/assets/d0ccd2ec4ae7fd5186b0.js, line 2: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/d0ccd2ec4ae7fd5186b0.js, line 2: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/d0ccd2ec4ae7fd5186b0.js, line 2: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/d0ccd2ec4ae7fd5186b0.js, line 2: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1619732665585	geckodriver	INFO	Listening on 127.0.0.1:38675
+1619732665589	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilez63rLM"
+1619732665965	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619732667104	Marionette	INFO	Listening on port 39535
+1619732667224	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://discord.com/assets/d0ccd2ec4ae7fd5186b0.js, line 2: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/d0ccd2ec4ae7fd5186b0.js, line 2: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/d0ccd2ec4ae7fd5186b0.js, line 2: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/d0ccd2ec4ae7fd5186b0.js, line 2: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1619732702292	geckodriver	INFO	Listening on 127.0.0.1:40909
+1619732702295	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile449l4f"
+1619732702673	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619732703624	Marionette	INFO	Listening on port 45397
+1619732703739	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://discord.com/assets/d0ccd2ec4ae7fd5186b0.js, line 2: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/d0ccd2ec4ae7fd5186b0.js, line 2: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/d0ccd2ec4ae7fd5186b0.js, line 2: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/d0ccd2ec4ae7fd5186b0.js, line 2: unreachable code after return statement
+1619732736022	Marionette	INFO	Stopped listening on port 45397
+1619732740382	geckodriver	INFO	Listening on 127.0.0.1:48691
+1619732740385	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile1Swmaa"
+1619732740793	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619732741701	Marionette	INFO	Listening on port 40273
+1619732741823	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://discord.com/assets/d0ccd2ec4ae7fd5186b0.js, line 2: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/d0ccd2ec4ae7fd5186b0.js, line 2: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/d0ccd2ec4ae7fd5186b0.js, line 2: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/d0ccd2ec4ae7fd5186b0.js, line 2: unreachable code after return statement
+Marionette threw an error: TypeError: browsingContextFn().currentWindowGlobal is null
+getMarionetteCommandsActorProxy/get/<@chrome://marionette/content/actors/MarionetteCommandsParent.jsm:327:29
+
+1619732761159	Marionette	INFO	Stopped listening on port 40273
+1619732792886	geckodriver	INFO	Listening on 127.0.0.1:44729
+1619732792903	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilevh8zu9"
+1619732793319	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619732794248	Marionette	INFO	Listening on port 43835
+1619732794320	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://discord.com/assets/d0ccd2ec4ae7fd5186b0.js, line 2: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/d0ccd2ec4ae7fd5186b0.js, line 2: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/d0ccd2ec4ae7fd5186b0.js, line 2: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/d0ccd2ec4ae7fd5186b0.js, line 2: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/d0ccd2ec4ae7fd5186b0.js, line 2: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/d0ccd2ec4ae7fd5186b0.js, line 2: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/d0ccd2ec4ae7fd5186b0.js, line 2: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/d0ccd2ec4ae7fd5186b0.js, line 2: unreachable code after return statement
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619735347773	Marionette	INFO	Stopped listening on port 43835
+1619787344563	geckodriver	INFO	Listening on 127.0.0.1:45419
+1619787345545	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile0NA00c"
+1619787346283	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619787347927	Marionette	INFO	Listening on port 34369
+1619787347987	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://discord.com/assets/d0ccd2ec4ae7fd5186b0.js, line 2: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/d0ccd2ec4ae7fd5186b0.js, line 2: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/d0ccd2ec4ae7fd5186b0.js, line 2: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/d0ccd2ec4ae7fd5186b0.js, line 2: unreachable code after return statement
+1619787660480	geckodriver	INFO	Listening on 127.0.0.1:40709
+1619787660486	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilezMo5dM"
+1619787660859	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619787661846	Marionette	INFO	Listening on port 44921
+1619787661903	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://discord.com/assets/d0ccd2ec4ae7fd5186b0.js, line 2: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/d0ccd2ec4ae7fd5186b0.js, line 2: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/d0ccd2ec4ae7fd5186b0.js, line 2: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/d0ccd2ec4ae7fd5186b0.js, line 2: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+JavaScript warning: https://discord.com/assets/d0ccd2ec4ae7fd5186b0.js, line 2: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/d0ccd2ec4ae7fd5186b0.js, line 2: unreachable code after return statement
+1619787827258	Marionette	INFO	Stopped listening on port 34369
+1619788557128	geckodriver	INFO	Listening on 127.0.0.1:49871
+1619788557132	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileD60cck"
+1619788557546	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619788558534	Marionette	INFO	Listening on port 40675
+1619788558550	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://discord.com/assets/d0ccd2ec4ae7fd5186b0.js, line 2: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/d0ccd2ec4ae7fd5186b0.js, line 2: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/d0ccd2ec4ae7fd5186b0.js, line 2: unreachable code after return statement
+JavaScript warning: https://discord.com/assets/d0ccd2ec4ae7fd5186b0.js, line 2: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.

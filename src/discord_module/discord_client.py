@@ -8,7 +8,7 @@ class DiscordMonitor:
     def __init__(self):
         self.driver = webdriver.Firefox()
         self.driver.get("https://discord.com/login")
-        self.login("alisutchu@gmail.com", "sifre")
+        self.login("alisutchu@gmail.com", "uhıolfds*")
 
     # Enters username and password then presses login button
     def login(self, username, password):
@@ -28,7 +28,7 @@ class DiscordMonitor:
     def click_server(self):
         ser_button = self.driver.find_element_by_xpath("//div[@data-list-item-id='guildsnav___822668443286372422']")
         ser_button.click()
-
+        print("Clicked server.")
         self.click_channel()
 
     def click_channel(self, recursive_counter=100):
@@ -36,23 +36,23 @@ class DiscordMonitor:
             print("Couldn't find the channel")
             return -1
 
-        channels = self.driver.find_element_by_xpath("//div[@id='channels']")
-
         try:
             channel_button = self.driver.find_element_by_xpath(
                 "//a[@data-list-item-id='channels___823213645507985438']")
             channel_button.click()
+            print("Clicked channel.")
         except:
-            time.sleep(2)
-            # channels.send_keys(keys.Keys.UP)
+            time.sleep(1)
+            channels = self.driver.find_element_by_xpath("//div[@id='channels']")
+            channels.send_keys(keys.Keys.DOWN)
             self.click_channel(recursive_counter - 1)
 
         return 0
 
     def read_message_list(self):
-        mess = self.driver.find_element_by_xpath("//div[@aria-label='Messages in amazon']")
+        mess = self.driver.find_element_by_xpath("//div[@class='scrollerInner-2YIMLh']")
         for _ in range(10):
             mess.send_keys(keys.Keys.PAGE_DOWN)
 
-        items = mess.find_elements_by_xpath("//div[@role='listitem']")
+        items = mess.find_elements_by_xpath("//div[starts-with (@id, 'chat-messages-')]")
         return items

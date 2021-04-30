@@ -1,7 +1,7 @@
 import time
 
-from discord_monitor import DiscordMonitor
-from src.models.discord_link_manager import DiscordLinkManager
+from discord_module.discord_client import DiscordMonitor
+from discord_module.discord_link_manager import DiscordLinkManager
 
 monitor = DiscordMonitor()
 
